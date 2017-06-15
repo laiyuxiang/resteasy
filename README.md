@@ -1,1 +1,2 @@
 #resteasy
+>RESTEasy是JBoss的一个开源项目，提供各种框架帮助你构建RESTful Web Services和RESTful Java应用程序。它是JAX-RS规范的一个完整实现并通过JCP认证。作为一个JBOSS的项目，它当然能和JBOSS应用服务器很好地集成在一起。但是，它也能在任何运行JDK5或以上版本的Servlet容器中运行。RESTEasy还提供一个RESTEasy JAX-RS客户端调用框架。能够很方便与EJB、Seam、Guice、Spring和Spring MVC集成使用。支持在客户端与服务器端自动实现GZIP解压缩。 
